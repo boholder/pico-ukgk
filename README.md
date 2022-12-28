@@ -1,0 +1,1 @@
+Got a [Raspberry pi pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/), let's see what we can do with this little one.
